@@ -1,0 +1,221 @@
+{
+  "hash": "3c611aca8b3c60ba33a89992342f6b0bc360a4a9477bee63aacc1622b97b9c5d",
+  "left": {
+    "hash": "e7993900e3e212f97d29f83653e08ab2b58e1f5b680d560053fe873b62f50010",
+    "left": {
+      "hash": "ca5bcafdcfc3f129eee4f579294931eec571383b844c76b9b3b77855ca8d7d47",
+      "left": {
+        "hash": "606747dae5aea85829f98a07f3767a76b43c7283903415f327ee1cf159a6e686",
+        "left": {
+          "hash": "d6fa47fc2884aa4c448fc4daeb0483b87a32807f7e93cb2f8b3665377cd750c4",
+          "left": {
+            "hash": "bdc3fae2e0f50de2c6bbec05ce405a9f6e842a9fd933d7d0f1ac5f765ff17951",
+            "data": "tx1: Alice pays Bob 5 BTC"
+          },
+          "right": {
+            "hash": "a33a569093712b050da533fd8d01eed359c69d08fc860eebd28860d86f407d9d",
+            "data": "tx2: Charlie pays Dave 2 BTC"
+          }
+        },
+        "right": {
+          "hash": "5ae399d255cba96f4f2a74dacd3372b6e6b53872ec5f751750cc8b72bcfccc1f",
+          "left": {
+            "hash": "f0d07931af03ef3281c1a4463e9a2c3600911c525e81ce34f5bf0490cccada2b",
+            "data": "tx3: Eve pays Frank 3 BTC"
+          },
+          "right": {
+            "hash": "4f6ccb8ed073471f2991a6686573fcc6035896292ca35274f89f0180a7b38ad9",
+            "data": "tx4: Grace pays Heidi 1 BTC"
+          }
+        }
+      },
+      "right": {
+        "hash": "f8a1158bbe9fdb46739ddcb8059e8025f420c3957f8a533d557a189c2ba3188a",
+        "left": {
+          "hash": "66584c723a491e7211ddcbc0113b992f3fcaae26d5cbd9506b162f4369ff10f8",
+          "left": {
+            "hash": "f73c9807876e1a855e7468bc846c2333978de633a6eccf13c45b702fe4453175",
+            "data": "tx5: Ivan pays Judy 4 BTC"
+          },
+          "right": {
+            "hash": "8aed6b58defd87c512113c52f3b223f6cfccb59976674cfa57ab84788fc5e71f",
+            "data": "tx6: Mallory pays Oscar 7 BTC"
+          }
+        },
+        "right": {
+          "hash": "2eebaf68a4bb12b1c1d65d339234bf044500d931b3ae1f127f9f7b54a016a45d",
+          "left": {
+            "hash": "cc5f2e566dd2a6b0cef7f27b4c223e30135f7f8414ea734b38d8e5c7f6979e89",
+            "data": "tx7: Peggy pays Trent 6 BTC"
+          },
+          "right": {
+            "hash": "f69278fe8a824a4b155e04de2ee50fb86e45564d19b0138fc118c472cc4e0310",
+            "data": "tx8: Victor pays Walter 1 BTC"
+          }
+        }
+      }
+    },
+    "right": {
+      "hash": "294c3d90f53468a698772ef6760d38342b1c57b718a6f37e47470d20000a05d9",
+      "left": {
+        "hash": "24cb5d64264a0336c410569ddf6788fbdb2c8f4b910e4d337d0255350f6def31",
+        "left": {
+          "hash": "ff55659b4c0dccfc0ae55c1e9c473f9f22e53f1a12bcf3258b0b4d3c2468eb62",
+          "left": {
+            "hash": "ee0e177891b28ea1790694cacc3302ce8c9e540952529fc6cf46e621d4bf6f85",
+            "data": "tx9: Xavier pays Yolanda 8 BTC"
+          },
+          "right": {
+            "hash": "683da63f14ee06deeca0e0668ae3fb912ca2aec9f7aedc76c35c194dba692e2d",
+            "data": "tx10: Zack pays Alice 2 BTC"
+          }
+        },
+        "right": {
+          "hash": "e2392d245ed1383b96e4c872da34ff320d0f1d834ff69a9092c9b1e088b9d683",
+          "left": {
+            "hash": "93aebd54bcea79262b13a0f3ccec2c0d1c08b49af728f74764a1024490053d70",
+            "data": "tx11: Bob pays Charlie 3 BTC"
+          },
+          "right": {
+            "hash": "ec5ac45e663a251d48725e2297ef8d8c8509e2041e8b06821d3ec9da4b6bc9d7",
+            "data": "tx12: Dave pays Eve 1 BTC"
+          }
+        }
+      },
+      "right": {
+        "hash": "c5aa694ad4918b8c47344787e1cb053e20092d547273ef81ac8f108d03b40d7c",
+        "left": {
+          "hash": "90d19774e724ed62fc2e9607c1a134ad4755db39bb252ae25ea5a28b01826c55",
+          "left": {
+            "hash": "f895d36954784a2b09a7e9b6a64ad2d0b79775867ba51d0c0c81f680d60a1f94",
+            "data": "tx13: Frank pays Grace 5 BTC"
+          },
+          "right": {
+            "hash": "a84d434b08fd105aace02faa60145a140b8063a6eee5a441e446a797baf67995",
+            "data": "tx14: Heidi pays Ivan 4 BTC"
+          }
+        },
+        "right": {
+          "hash": "5127366865e64ffa9b9c8220e45dfb3b1e497da8fd6821bc7c3ea134d2b6a373",
+          "left": {
+            "hash": "256bdf3702fe6bc1f1a09851cd55f294b47bfd1b9a67609dcabb12c61533de93",
+            "data": "tx15: Judy pays Mallory 9 BTC"
+          },
+          "right": {
+            "hash": "2124d33cf3b9fab7ff77700776451549a6b33afc0032dbea2a3b17d906487acb",
+            "data": "tx16: Oscar pays Peggy 2 BTC"
+          }
+        }
+      }
+    }
+  },
+  "right": {
+    "hash": "e1d1c16c8fa4738b3d1402a4435b072bc10506a0ed52bfa50c124def9ba505c2",
+    "left": {
+      "hash": "1c1ed576eba63a0f72c4f4dcae99f41a0b7a20f29abb27cebd04e4ff3ec96bb0",
+      "left": {
+        "hash": "4ad1fd90e803acac978f2359e7e2cd972da76b229fd0ce13ed941ee7ac2a6329",
+        "left": {
+          "hash": "d4eb60e76de4c2fff0d088447bebd482107cd05db8d39d666513c5904377c96c",
+          "left": {
+            "hash": "3b3cab6b472557bf6bef4d914b7f26ed353bfd3e63adcbf645c1ad62fe8e8f33",
+            "data": "tx17: Trent pays Victor 6 BTC"
+          },
+          "right": {
+            "hash": "ad5d1183a7aa6e665e6ad4431efd20f97b8e20944086a70265302598448c941e",
+            "data": "tx18: Walter pays Xavier 7 BTC"
+          }
+        },
+        "right": {
+          "hash": "d3a931acd7de9194caa0c977dd29567b8463115d82d0ffb3f7746dd54b850c2d",
+          "left": {
+            "hash": "b768f018c42f78a7c8e05becbd4c66b258220e373893008499c1548391f5d089",
+            "data": "tx19: Yolanda pays Zack 1 BTC"
+          },
+          "right": {
+            "hash": "23955d744431cd320a6b5cdc6ac0780b2c1d876e03c6539a8bc0b705aa2b1225",
+            "data": "tx20: Alice pays Charlie 3 BTC"
+          }
+        }
+      },
+      "right": {
+        "hash": "4ad1fd90e803acac978f2359e7e2cd972da76b229fd0ce13ed941ee7ac2a6329",
+        "left": {
+          "hash": "d4eb60e76de4c2fff0d088447bebd482107cd05db8d39d666513c5904377c96c",
+          "left": {
+            "hash": "3b3cab6b472557bf6bef4d914b7f26ed353bfd3e63adcbf645c1ad62fe8e8f33",
+            "data": "tx17: Trent pays Victor 6 BTC"
+          },
+          "right": {
+            "hash": "ad5d1183a7aa6e665e6ad4431efd20f97b8e20944086a70265302598448c941e",
+            "data": "tx18: Walter pays Xavier 7 BTC"
+          }
+        },
+        "right": {
+          "hash": "d3a931acd7de9194caa0c977dd29567b8463115d82d0ffb3f7746dd54b850c2d",
+          "left": {
+            "hash": "b768f018c42f78a7c8e05becbd4c66b258220e373893008499c1548391f5d089",
+            "data": "tx19: Yolanda pays Zack 1 BTC"
+          },
+          "right": {
+            "hash": "23955d744431cd320a6b5cdc6ac0780b2c1d876e03c6539a8bc0b705aa2b1225",
+            "data": "tx20: Alice pays Charlie 3 BTC"
+          }
+        }
+      }
+    },
+    "right": {
+      "hash": "1c1ed576eba63a0f72c4f4dcae99f41a0b7a20f29abb27cebd04e4ff3ec96bb0",
+      "left": {
+        "hash": "4ad1fd90e803acac978f2359e7e2cd972da76b229fd0ce13ed941ee7ac2a6329",
+        "left": {
+          "hash": "d4eb60e76de4c2fff0d088447bebd482107cd05db8d39d666513c5904377c96c",
+          "left": {
+            "hash": "3b3cab6b472557bf6bef4d914b7f26ed353bfd3e63adcbf645c1ad62fe8e8f33",
+            "data": "tx17: Trent pays Victor 6 BTC"
+          },
+          "right": {
+            "hash": "ad5d1183a7aa6e665e6ad4431efd20f97b8e20944086a70265302598448c941e",
+            "data": "tx18: Walter pays Xavier 7 BTC"
+          }
+        },
+        "right": {
+          "hash": "d3a931acd7de9194caa0c977dd29567b8463115d82d0ffb3f7746dd54b850c2d",
+          "left": {
+            "hash": "b768f018c42f78a7c8e05becbd4c66b258220e373893008499c1548391f5d089",
+            "data": "tx19: Yolanda pays Zack 1 BTC"
+          },
+          "right": {
+            "hash": "23955d744431cd320a6b5cdc6ac0780b2c1d876e03c6539a8bc0b705aa2b1225",
+            "data": "tx20: Alice pays Charlie 3 BTC"
+          }
+        }
+      },
+      "right": {
+        "hash": "4ad1fd90e803acac978f2359e7e2cd972da76b229fd0ce13ed941ee7ac2a6329",
+        "left": {
+          "hash": "d4eb60e76de4c2fff0d088447bebd482107cd05db8d39d666513c5904377c96c",
+          "left": {
+            "hash": "3b3cab6b472557bf6bef4d914b7f26ed353bfd3e63adcbf645c1ad62fe8e8f33",
+            "data": "tx17: Trent pays Victor 6 BTC"
+          },
+          "right": {
+            "hash": "ad5d1183a7aa6e665e6ad4431efd20f97b8e20944086a70265302598448c941e",
+            "data": "tx18: Walter pays Xavier 7 BTC"
+          }
+        },
+        "right": {
+          "hash": "d3a931acd7de9194caa0c977dd29567b8463115d82d0ffb3f7746dd54b850c2d",
+          "left": {
+            "hash": "b768f018c42f78a7c8e05becbd4c66b258220e373893008499c1548391f5d089",
+            "data": "tx19: Yolanda pays Zack 1 BTC"
+          },
+          "right": {
+            "hash": "23955d744431cd320a6b5cdc6ac0780b2c1d876e03c6539a8bc0b705aa2b1225",
+            "data": "tx20: Alice pays Charlie 3 BTC"
+          }
+        }
+      }
+    }
+  }
+}
